@@ -54,14 +54,9 @@ Integration Testing: Testing interactions between different components or subsys
 System Testing: Testing the entire software system as a whole.
 Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 Importance: It helps identify and fix defects early in the development process, leading to higher-quality software products.
-
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
-
-
+Define prompt engineering and discuss its importance in interacting with AI models.Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. Prompt engineering helps avoid getting confused by making your questions clear and specific, so the AI understands exactly what you need."
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Write a story about a person who goes on a journey."
+Improved Prompt: "Write a 250-word short story about a 25-year-old female software engineer who embarks on a solo road trip from Kenya to the USA to overcome her fear of heights and find inspiration for her next coding project."
